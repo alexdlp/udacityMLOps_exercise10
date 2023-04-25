@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/adelapuente/Desktop/exercise_10/mlruns/0/842238e5b85144abaafa413eb27c5cdb/artifacts
+end_time: 1682442739545
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 842238e5b85144abaafa413eb27c5cdb
+run_name: silent-quail-863
+run_uuid: 842238e5b85144abaafa413eb27c5cdb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682442411487
+status: 4
+tags: []
+user_id: ADeLaPuente

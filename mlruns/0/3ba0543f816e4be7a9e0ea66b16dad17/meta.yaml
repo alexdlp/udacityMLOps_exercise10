@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/adelapuente/Desktop/exercise_10/mlruns/0/3ba0543f816e4be7a9e0ea66b16dad17/artifacts
+end_time: 1682443373168
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3ba0543f816e4be7a9e0ea66b16dad17
+run_name: bright-bat-760
+run_uuid: 3ba0543f816e4be7a9e0ea66b16dad17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682443354703
+status: 4
+tags: []
+user_id: ADeLaPuente

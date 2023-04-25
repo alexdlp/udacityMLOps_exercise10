@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/adelapuente/Desktop/exercise_10/mlruns/0/871a3836e0694a6296abad57f9128b9d/artifacts
+end_time: 1682443251677
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 871a3836e0694a6296abad57f9128b9d
+run_name: rogue-smelt-354
+run_uuid: 871a3836e0694a6296abad57f9128b9d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682442933897
+status: 4
+tags: []
+user_id: ADeLaPuente
